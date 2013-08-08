@@ -1,0 +1,14 @@
+{
+  "name": "estraverse",
+  "repo": "karlbohlmark/estraverse",
+  "description": "Traverse ECMAScript AST",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "estraverse.js",
+  "scripts": [
+    "estraverse.js"
+  ]
+}
